@@ -66,7 +66,7 @@ Für Deployment eignen sich z. B. GitHub Pages, Netlify oder Vercel.
 
 ---
 
-## 📷 Vorschau (Platzhalter)
+## 📷 Vorschau
 
 ```text
 +-------------------------------+
