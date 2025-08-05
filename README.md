@@ -67,17 +67,8 @@ Für Deployment eignen sich z. B. GitHub Pages, Netlify oder Vercel.
 ---
 
 ## 📷 Vorschau
+<img width="1386" height="654" alt="image" src="https://github.com/user-attachments/assets/b55733ea-e686-4e1b-adb0-e49a1ff89f13" />
 
-```text
-+-------------------------------+
-|    [LOGO] YADCraft           |
-|   Premium Webdesign Agentur  |
-|                               |
-|   [✓] Modernes Design         |
-|   [✓] Mobile Optimierung      |
-|   [✓] Schnelle Ladezeiten     |
-+-------------------------------+
-```
 
 ---
 
