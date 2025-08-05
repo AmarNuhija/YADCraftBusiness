@@ -89,11 +89,4 @@ Für Deployment eignen sich z. B. GitHub Pages, Netlify oder Vercel.
 
 ---
 
-## 📄 Lizenz
-
-Dieses Projekt kann als Grundlage für eigene Webseiten genutzt und beliebig angepasst werden.  
-Bei Veröffentlichung über öffentlich zugängliche Plattformen ist ein Hinweis auf den Ursprung erwünscht (optional).
-
----
-
 > „Design is not just what it looks like and feels like. Design is how it works.“ – *Steve Jobs*
